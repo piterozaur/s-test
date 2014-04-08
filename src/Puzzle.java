@@ -2,6 +2,7 @@
 public class Puzzle {
 
 	public int[] solution;
+	public int[] currentState;
 	
 	Puzzle() {
 		
